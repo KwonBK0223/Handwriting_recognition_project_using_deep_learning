@@ -17,7 +17,7 @@ st.write('# Prediction of handwritten English character')
 # 모델 로드
 @st.cache(allow_output_mutation=True)
 def load():
-    url = 'https://github.com/KwonBK0223/Handwriting_recognition_project_using_deep_learning/blob/main/web/maincnn.h5'
+    url = 'https://github.com/KwonBK0223/Handwriting_recognition_project_using_deep_learning/blob/main/maincnn.h5'
     r = requests.get(url)
     with open('maincnn.h5','wb') as f:
         f.write(r.content)        
@@ -117,7 +117,7 @@ def page2():
 
 # 팀원 페이지
 def Team_Mate():
-    url = 'https://github.com/KwonBK0223/Handwriting_recognition_project_using_deep_learning/blob/main/web/Image/PNU_Mark.png'
+    url = 'https://github.com/KwonBK0223/Handwriting_recognition_project_using_deep_learning/blob/main/Image/PNU_Mark.png'
     response = requests.get(url)
     img = Image.open(BytesIO(response.content))
     col1, col2 = st.columns([1,5])
