@@ -1,0 +1,8 @@
+numpy
+pandas
+tensorflow
+opencv-python-headless == 4.5.1.48
+keras
+streamlit
+streamlit_drawable_canvas
+protobuf>=3.20.3
