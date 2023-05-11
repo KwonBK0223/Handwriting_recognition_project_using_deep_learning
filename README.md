@@ -2,5 +2,5 @@
 
 # <딥러닝을 활용한 필기체 인식 프로젝트> - Master Writer
 
-### Web site[
+### Web site
 https://kwonbk0223-handwriting-recognition-project-using-dee-web-6cxbo9.streamlit.app/
