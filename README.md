@@ -4,3 +4,6 @@
 
 ### Web site
 https://kwonbk0223-handwriting-recognition-project-using-dee-web-6cxbo9.streamlit.app/
+
+### Kaggle
+https://www.kaggle.com/code/bk0223/alphabets-recognition-cnn-not-written-beautifully
