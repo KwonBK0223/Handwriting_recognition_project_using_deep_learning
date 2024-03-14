@@ -3,7 +3,7 @@
 # <딥러닝을 활용한 필기체 인식 프로젝트> - Master Writer
 
 ### Web site
-https://kwonbk0223-handwriting-recognition-project-using-dee-web-6cxbo9.streamlit.app/
+[https://kwonbk0223-handwriting-recognition-project-using-dee-web-6cxbo9.streamlit.app/](https://handwritingrecognitionprojectusingdeeplearningweb-kkccwdk4ezhc.streamlit.app/)
 
 ### Kaggle
 https://www.kaggle.com/code/bk0223/alphabets-recognition-cnn-not-written-beautifully
